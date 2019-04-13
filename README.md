@@ -1,4 +1,4 @@
-# twosum
+# TwoSum - Leetcode
 TwoSum solved in O(n)-python3
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
